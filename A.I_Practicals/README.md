@@ -33,7 +33,7 @@ The experiments cover key AI concepts such as search techniques, knowledge repre
 - 🔹 [Practical 09 – Bayes Rule](./Practical-09-Bayes-Rules)
 - 🔹 [Practical 10 – Prompt Engineering](./Practical-10-Prompt-Engineering)
 - 🔹 [Practical 11 – Linear Regression](./Practical-11-Linear-Regression)
-- 🔹 [Practical 12 – AI Tool (Image Enhancement)](./Practical-12-AI-Tool)
+- 🔹 [Practical 12 – AI Tool](./Practical-12-AI-Tool)
 
 ---
 
