@@ -9,6 +9,12 @@ Academic Session: 2025–2026
 # 🌐 Live Project Demo  
 https://network-fault-predictor-1.onrender.com  
 
+# 📱 Scan QR for Live Demo  
+
+<p align="center">
+  <img src="./rj-ai-project-Qr.jpeg" width="200">
+</p>
+
 ---
 
 # 📘 Repository Overview  
@@ -21,21 +27,20 @@ It demonstrates both theoretical understanding and practical implementation of A
 
 # 📂 AI Lab Practicals  
 
-
 ## 📂 List of AI Lab Practicals
 
-- 🔹 Practical 01 – Magic Square
-- 🔹 Practical 02 – Water Jug Problem
-- 🔹 Practical 03 – Tic Tac Toe with AI 
-- 🔹 Practical 04 – A* Algorithm vs BFS
-- 🔹 Practical 05 – Cryptarithmetic Puzzle
-- 🔹 Practical 06 – Alpha Beta Pruning
-- 🔹 Practical 07 – Prolog
+- 🔹 Practical 01 – Magic Square  
+- 🔹 Practical 02 – Water Jug Problem  
+- 🔹 Practical 03 – Tic Tac Toe with AI  
+- 🔹 Practical 04 – A* Algorithm vs BFS  
+- 🔹 Practical 05 – Cryptarithmetic Puzzle  
+- 🔹 Practical 06 – Alpha Beta Pruning  
+- 🔹 Practical 07 – Prolog  
 - 🔹 Practical 08 – Semantic Networks  
-- 🔹 Practical 09 – Bayes Rule 
-- 🔹 Practical 10 – Prompt Engineering 
-- 🔹 Practical 11 – Linear Regression
-- 🔹 Practical 12 – AI Tool 
+- 🔹 Practical 09 – Bayes Rule  
+- 🔹 Practical 10 – Prompt Engineering  
+- 🔹 Practical 11 – Linear Regression  
+- 🔹 Practical 12 – AI Tool  
 
 ---
 
@@ -131,7 +136,7 @@ AI-Lab-Repository/
 │   ├── Practical-01  
 │   ├── Practical-02  
 │   └── ...  
-│  
+
 ├── Network-Fault-Prediction/  
 │   ├── app.py  
 │   ├── predict.py  
@@ -139,7 +144,7 @@ AI-Lab-Repository/
 │   ├── templates/  
 │   ├── requirements.txt  
 │   ├── Procfile  
-│  
+
 ├── README.md  
 
 ---
