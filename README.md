@@ -21,18 +21,18 @@ It demonstrates both theoretical understanding and practical implementation of A
 
 # 📂 AI Lab Practicals  
 
-- 🔹 [Practical 01 – Magic Square](./Practical-01-Magic-Square)  
-- 🔹 [Practical 02 – Water Jug Problem](./Practical-02-Water-Jug-Problem)  
-- 🔹 [Practical 03 – Tic Tac Toe with AI](./Practical-03-Tic-Tac-Toe-AI)  
-- 🔹 [Practical 04 – A* Algorithm vs BFS](./Practical-04-AStar-vs-BFS)  
-- 🔹 [Practical 05 – Cryptarithmetic Puzzle](./Practical-05-Cryptarithmetic-CSP)  
-- 🔹 [Practical 06 – Alpha Beta Pruning](./Practical-06-Alpha-Beta-Pruning)  
-- 🔹 [Practical 07 – Prolog](./Practical-07-Prolog)  
-- 🔹 [Practical 08 – Semantic Networks](./Practical-08-Semantic-Networks)  
-- 🔹 [Practical 09 – Bayes Rule](./Practical-09-Bayes-Rules)  
-- 🔹 [Practical 10 – Prompt Engineering](./Practical-10-Prompt-Engineering)  
-- 🔹 [Practical 11 – Linear Regression](./Practical-11-Linear-Regression)  
-- 🔹 [Practical 12 – AI Tool (Image Enhancement)](./Practical-12-AI-Tool)  
+- 🔹 Practical 01 – Magic Square
+- 🔹 Practical 02 – Water Jug Problem
+- 🔹 Practical 03 – Tic Tac Toe with AI 
+- 🔹 Practical 04 – A* Algorithm vs BFS
+- 🔹 Practical 05 – Cryptarithmetic Puzzle
+- 🔹 Practical 06 – Alpha Beta Pruning
+- 🔹 Practical 07 – Prolog
+- 🔹 Practical 08 – Semantic Networks  
+- 🔹 Practical 09 – Bayes Rule 
+- 🔹 Practical 10 – Prompt Engineering 
+- 🔹 Practical 11 – Linear Regression
+- 🔹 Practical 12 – AI Tool 
 
 ---
 
