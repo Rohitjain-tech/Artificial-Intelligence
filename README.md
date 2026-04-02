@@ -54,7 +54,7 @@ It demonstrates both theoretical understanding and practical implementation of A
 | 09 | Bayes Rule | Probability |
 | 10 | Prompt Engineering | AI interaction |
 | 11 | Linear Regression | Machine Learning |
-| 12 | AI Tool | Image enhancement |
+| 12 | AI Tool | Poe AI |
 
 ---
 
